@@ -89,15 +89,15 @@ The updated evidence shows a clear shift towards high-volume, low-CPC traffic ac
 
 ## Dashboard evidence
 
-### 1\. Performance Max Campaign 1
+### 1\. Campaign 1
 
 ![Campaign 1](google-ads-dashboard-screenshots/01\_campaign\_1.png)
 
-### 2\. Performance Max Campaign 2
+### 2\. Campaign 2
 
 ![Campaign 2](google-ads-dashboard-screenshots/02\_campaign\_2.png)
 
-### 3\. Campaign 3 Late Window
+### 3\. Campaign 3
 
 ![Campaign 3](google-ads-dashboard-screenshots/03\_campaign\_3.png)
 
@@ -105,7 +105,7 @@ The updated evidence shows a clear shift towards high-volume, low-CPC traffic ac
 
 ![Campaign 4](google-ads-dashboard-screenshots/04\_campaign\_4.png)
 
-### 5\. Campaign 5 Final Window
+### 5\. Campaign 5
 
 ![Campaign 5](google-ads-dashboard-screenshots/05\_campaign\_5.png)
 
