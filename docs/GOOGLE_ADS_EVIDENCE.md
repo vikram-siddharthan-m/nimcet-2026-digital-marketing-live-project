@@ -67,23 +67,23 @@ The screenshots do not support public disclosure of:
 
 ### Performance Max Campaign 1
 
-!\[Campaign 1](../google-ads-dashboard-screenshots/01\_campaign\_1.png)
+![Campaign 1](../google-ads-dashboard-screenshots/01\_campaign\_1.png)
 
 ### Performance Max Campaign 2
 
-!\[Campaign 2](../google-ads-dashboard-screenshots/02\_campaign\_2.png)
+![Campaign 2](../google-ads-dashboard-screenshots/02\_campaign\_2.png)
 
 ### Campaign 3 Late Window
 
-!\[Campaign 3](../google-ads-dashboard-screenshots/03\_campaign\_3.png)
+![Campaign 3](../google-ads-dashboard-screenshots/03\_campaign\_3.png)
 
 ### Campaign 4
 
-!\[Campaign 4](../google-ads-dashboard-screenshots/04\_campaign\_4.png)
+![Campaign 4](../google-ads-dashboard-screenshots/04\_campaign\_4.png)
 
 ### Campaign 5 Final Window
 
-!\[Campaign 5](../google-ads-dashboard-screenshots/05\_campaign\_5.png)
+![Campaign 5](../google-ads-dashboard-screenshots/05\_campaign\_5.png)
 
 ## 
 
